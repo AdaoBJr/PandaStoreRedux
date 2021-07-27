@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PandaStoreRedux/static/css/main.3d30883a.chunk.css",
+    "main.js": "/PandaStoreRedux/static/js/main.fb5b83da.chunk.js",
+    "main.js.map": "/PandaStoreRedux/static/js/main.fb5b83da.chunk.js.map",
+    "runtime-main.js": "/PandaStoreRedux/static/js/runtime-main.be08f83e.js",
+    "runtime-main.js.map": "/PandaStoreRedux/static/js/runtime-main.be08f83e.js.map",
+    "static/js/2.51c4d22c.chunk.js": "/PandaStoreRedux/static/js/2.51c4d22c.chunk.js",
+    "static/js/2.51c4d22c.chunk.js.map": "/PandaStoreRedux/static/js/2.51c4d22c.chunk.js.map",
+    "index.html": "/PandaStoreRedux/index.html",
+    "static/css/main.3d30883a.chunk.css.map": "/PandaStoreRedux/static/css/main.3d30883a.chunk.css.map",
+    "static/js/2.51c4d22c.chunk.js.LICENSE.txt": "/PandaStoreRedux/static/js/2.51c4d22c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PandaStoreRedux/static/media/fundo.dcb4b664.png",
+    "static/media/cart.80f1b71e.png": "/PandaStoreRedux/static/media/cart.80f1b71e.png",
+    "static/media/lupa.d7a62503.png": "/PandaStoreRedux/static/media/lupa.d7a62503.png",
+    "static/media/pandaHeader.0d3a3eaf.png": "/PandaStoreRedux/static/media/pandaHeader.0d3a3eaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be08f83e.js",
+    "static/js/2.51c4d22c.chunk.js",
+    "static/css/main.3d30883a.chunk.css",
+    "static/js/main.fb5b83da.chunk.js"
+  ]
+}
