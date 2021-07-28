@@ -1,5 +1,5 @@
 <p align="center"><img width='150px' src='https://github.com/PollyanaOliveira/panda-store-project/blob/main/panda_store/src/images/pandaHeader.png?raw=true' />
-<h1 align="center"> Panda Store Project  </h1>  </p>
+<h1 align="center"> Panda Store Project with Redux  </h1>  </p>
 
 <h2 align="center">GitHub Pages:</h2>
  
