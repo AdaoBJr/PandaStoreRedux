@@ -13,7 +13,7 @@ function App() {
     <div>
       <header className="header">
         <img src={pandaHeader} alt="urso panda" width="65px" />
-        <h1>PANDA STORE</h1>
+        <h1>PANDA STORE REDUX</h1>
       </header>
       <Router>
         <Switch>
